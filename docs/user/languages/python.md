@@ -107,3 +107,4 @@ The same technique is often used to test projects against multiple databases and
 * [dstufft/slumber](https://github.com/dstufft/slumber/blob/master/.travis.yml)
 * [dreid/cotools](https://github.com/dreid/cotools/blob/master/.travis.yml)
 * [MostAwesomeDude/klein](https://github.com/MostAwesomeDude/klein/blob/master/.travis.yml)
+* [EditorConfig/editorconfig-core-py](https://github.com/editorconfig/editorconfig-core-py/blob/master/.travis.yml)
